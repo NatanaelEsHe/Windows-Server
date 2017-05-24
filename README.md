@@ -10,4 +10,4 @@
 ![inicioSocio1](socio.png)  
 
 ## Accediendo a la web del dominio con un usuario  
-![webCoop](web.png)  
+![webCoop](web2.png)  
